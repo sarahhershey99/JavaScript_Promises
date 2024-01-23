@@ -29,8 +29,6 @@ The JavaScript Promises exercise has multiple steps:
    - Start out just logging the result to console to check if it is the value you expect
 3. From the result of the `then` promise consumer method, chain a `catch` method consumer and pass in a callback function
    - The callback function should receive the resolved value as the parameter
-   - Start out just logging the result to console to check if it is the value you expect
-
 ### Exercise 3: Update the DOM
 
 1. Replace the `console.log` statement in the `then` method callback parameter to
